@@ -1,0 +1,17 @@
+{
+    "name": "tomislav/composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tomislav\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomislav",
+            "email": "tkalec.tomi@gmail.com"
+        }
+    ],
+    "require": {}
+}
