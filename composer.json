@@ -1,6 +1,7 @@
 {
     "name": "tomislav/composer",
     "type": "library",
+    "minimum-stability": "stable",
     "license": "MIT",
     "autoload": {
         "psr-4": {
